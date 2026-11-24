@@ -1,0 +1,5 @@
+terraform
+git
+ansible
+docker 
+jenkins
