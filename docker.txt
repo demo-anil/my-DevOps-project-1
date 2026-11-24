@@ -1,0 +1,5 @@
+docker is conterization platform
+docker  is mainly used to:
+build images
+run containers
+deplo applications
